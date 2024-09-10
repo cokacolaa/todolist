@@ -1,5 +1,10 @@
 # Vue ToDo List
 
+## Clone Project
+```
+git clone 
+```
+
 ## About
 Project of a CRUD ToDo list made in vue.js
 
