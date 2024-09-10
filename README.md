@@ -2,7 +2,7 @@
 
 ## Clone Project
 ```
-git clone 
+git clone https://github.com/dylansysops/todolist.git
 ```
 
 ## About
